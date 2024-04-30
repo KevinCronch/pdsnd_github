@@ -4,7 +4,7 @@
 April 29th 2024 
 
 ### Project Title
-Bikeshare Project
+The Bikeshare Project
 
 ### Description
 The instructions for this project are not complete and include references to files from another project that isn't included in this course. It contains a python program and supporting data files.
