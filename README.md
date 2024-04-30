@@ -7,7 +7,7 @@ April 29th 2024
 Bikeshare Project
 
 ### Description
-Rideshare project. The instructions for this project are not complete and include references to files from another project that isn't included in this course. It contains a python program and supporting data files.
+The instructions for this project are not complete and include references to files from another project that isn't included in this course. It contains a python program and supporting data files.
 
 ### Files used
 bikeshare.py
@@ -15,4 +15,4 @@ data_file1.csv
 data_file2.csv
 
 ### Credits
-Inpired and forked from https://github.com/udacity/pdsnd_github
+Inspired and forked from https://github.com/udacity/pdsnd_github
