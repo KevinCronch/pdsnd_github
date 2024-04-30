@@ -4,14 +4,15 @@
 April 29th 2024 
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Rideshare project. The instructions for this project are not complete and include references to files from another project that isn't included in this course. It contains a python program and supporting data files.
 
 ### Files used
-Include the files used
+bikeshare.py
+data_file1.csv
+data_file2.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Inpired and forked from https://github.com/udacity/pdsnd_github
